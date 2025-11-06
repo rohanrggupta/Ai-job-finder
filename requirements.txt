@@ -1,6 +1,7 @@
-streamlit==1.39.0
-requests==2.32.3
-beautifulsoup4==4.12.3
-pandas==2.2.3
-google-generativeai==0.8.3
-python-dotenv==1.0.1
+streamlit>=1.37.0
+PyPDF2>=3.0.1
+pandas>=2.2.0
+requests>=2.31.0
+google-api-python-client>=2.136.0
+google-generativeai>=0.7.2
+rapidfuzz>=3.9.0
